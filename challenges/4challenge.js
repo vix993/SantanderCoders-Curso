@@ -1,6 +1,6 @@
 // In this challenge, we were tasked with creating a function
 // that receives an array and compares the fraction of positives,
-// zeros and negatives in the list, returning these in a list.
+// zeros and negatives within that list, returning these in an array.
 // eg. [2, 0, -2, -2] would return [0.25, 0.25, 0.5]
 
 function maisMenos(array){
