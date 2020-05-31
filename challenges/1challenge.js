@@ -1,5 +1,5 @@
 // In this challenge, we are given an array of ints that represents the punctuality of the students
-// eg. [5, -5, 0] where negative numbers students that are early and 0 are students that are on time.
+// eg. [5, -5, 0] where negative numbers are students that came early and 0's are students that are on time.
 // We also get an int that represents the min number of students needed to go forward with the class.
 
 // We were tasked with creating two function,
