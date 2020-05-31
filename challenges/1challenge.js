@@ -4,7 +4,7 @@
 
 // We were tasked with creating two function,
 // one that, using an array and number,
-// indicates true of false depending on whether the class will happen or not.
+// indicates true or false depending on whether the class will happen or not.
 
 function acontece(array, num){
     var onTime = 0;
@@ -18,6 +18,7 @@ function acontece(array, num){
 
 // The second function gets an array of lists and returns another list
 // that indicates in order which classes happened and which did not.
+// eg. [true, false, true]
 
 function aberturas(array, num){
     var newlist = [];
